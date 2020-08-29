@@ -7,3 +7,5 @@ Hello visitor! I'm Kevin, a coder from northern germany. If you'd like to know m
 
 * [Web: https://kevink.dev](https://kevink.dev)
 * [Twitter: @Unkn0wnKevin](https://twitter.com/Unkn0wnKevin)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5235JC)
